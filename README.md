@@ -2,6 +2,7 @@
 
 Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos atuando com soluções AWS. Tenho expertise em ambientes híbridos, automação com Terraform e CI/CD com GitHub Actions. Busco sempre entregar valor com segurança, escalabilidade e inovação.
 
+
 ---
 
 <div style="display: inline_block"><br>
@@ -51,6 +52,10 @@ AWS Solutions Architect – Associate – em preparação 📚
 
 ---
 
-## 🐍 Snake Game
+git checkout --orphan output
+git rm -rf .
+echo "# Snake Game Branch" > README.md
+git add README.md
+git commit -m "Create output branch for snake game"
+git push origin output
 
-![snake gif](https://github.com/ramon-cloud2/ramon-cloud2/blob/output/github-contribution-grid-snake-dark.svg)
