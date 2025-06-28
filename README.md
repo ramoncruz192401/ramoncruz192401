@@ -52,10 +52,9 @@ AWS Solutions Architect – Associate – em preparação 📚
 
 ---
 
-git checkout --orphan output
-git rm -rf .
-echo "# Snake Game Branch" > README.md
-git add README.md
-git commit -m "Create output branch for snake game"
-git push origin output
+---
+
+## 🐍 Snake Game — Contribuições Animadas
+
+![snake gif](https://github.com/ramon-cloud2/ramon-cloud2/blob/output/dist/github-contribution-grid-snake.svg)
 
