@@ -54,7 +54,10 @@ AWS Solutions Architect – Associate – em preparação 📚
 
 ---
 
+---
+
 ## 🐍 Snake Game — Contribuições Animadas
 
 ![snake gif](https://github.com/ramon-cloud2/ramon-cloud2/blob/output/dist/github-contribution-grid-snake.svg)
+
 
