@@ -5,7 +5,7 @@ Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos at
 ---
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="AWS" height="30" width="40" src="https://img.icons8.com/ios-filled/50/FF9900/amazon-web-services.png" />
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
