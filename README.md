@@ -30,4 +30,23 @@ Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos at
 ---
 
 ### 🌱 Atualmente estou aprendendo:
-- Red Hat C
+- Red Hat Certified Engineer (RHCE)
+- Ansible para SysAdmin
+- Active Directory no Windows Server 2022
+- VMware vSphere 7
+
+### 🎯 Focado nas certificações:
+- AWS Cloud Practitioner (em andamento)  
+- AWS Solutions Architect – Associate (em preparação)
+
+### 💬 Me pergunte sobre:
+- AWS, Terraform, CI/CD, Automação, Segurança, Cloud híbrida, Docker, GitHub Actions
+
+### 📫 Contato:
+📧 **ramoneletro@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/ramon-cloud2/)**  
+🐙 **[GitHub](https://github.com/ramon-cloud2)**
+
+---
+
+⭐ *Vamos construir soluções escaláveis, seguras e eficientes na nuvem!*
