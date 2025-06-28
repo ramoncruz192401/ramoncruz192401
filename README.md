@@ -1,35 +1,31 @@
 ## 👋 Oi! Eu sou Ramon Alberto, profissional apaixonado por Cloud, Infraestrutura e Automação!
 
 Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos atuando com soluções AWS. Tenho expertise em ambientes híbridos, automação com Terraform e CI/CD com GitHub Actions. Busco sempre entregar valor com segurança, escalabilidade e inovação.
-<p align="center">
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-  <h2 align="center">GitHub Readme Stats</h2>
-  <p align="center">Estatísticas dinâmicas geradas automaticamente com base nas minhas contribuições! ⚙️🚀</p>
-</p>
 
----
-
-## 📊 Painel GitHub - Ramon Alberto
+## 🚀 Painel GitHub - Ramon Alberto
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramon-cloud2&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-cloud2&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramon-cloud2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon-cloud2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 <!-- GitHub Streak -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramon-cloud2&theme=dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramon-cloud2&theme=tokyonight&hide_border=true"/>
 
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=ramon-cloud2&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&rank=A,AA,AAA,SSS" />
+<!-- GitHub Trophy A++ -->
+<img src="https://github-profile-trophy.vercel.app/?username=ramon-cloud2&theme=onestar&column=4&margin-w=10&no-frame=true&rank=A,AA,AAA,SSS" />
 
-<!-- Forks, Stars, Followers -->
-![GitHub Forks](https://img.shields.io/github/forks/ramon-cloud2/ramon-cloud2?style=for-the-badge&logo=github&color=gray)
-![GitHub Repo stars](https://img.shields.io/github/stars/ramon-cloud2/ramon-cloud2?style=for-the-badge&logo=github)
-![GitHub followers](https://img.shields.io/github/followers/ramon-cloud2?style=for-the-badge&logo=github)
+<!-- Badges extras -->
+<br><br>
+<img src="https://img.shields.io/github/followers/ramon-cloud2?style=for-the-badge&label=Followers&logo=github&labelColor=0D1117&color=2367d1" />
+<img src="https://img.shields.io/github/stars/ramon-cloud2?style=for-the-badge&label=Stars&logo=github&labelColor=0D1117&color=ffc107" />
+<img src="https://img.shields.io/github/issues/ramon-cloud2/ramon-cloud2?style=for-the-badge&label=Issues&logo=github&labelColor=0D1117&color=ff5722" />
+<img src="https://img.shields.io/github/forks/ramon-cloud2/ramon-cloud2?style=for-the-badge&label=Forks&logo=github&labelColor=0D1117&color=4caf50" />
 
 </div>
-
 
 
 ---
