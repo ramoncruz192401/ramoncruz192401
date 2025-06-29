@@ -48,7 +48,7 @@ Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos at
 
 ---
 
-### 🌱 Atualmente estou aprendendo:
+### 🌱 Atualmente fazendo Labs:
 - Red Hat Certified Engineer (RHCE)
 - Ansible para SysAdmin
 - Active Directory no Windows Server 2022
