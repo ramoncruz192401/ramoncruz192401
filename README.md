@@ -1,14 +1,13 @@
 ## 👋 Oi! Eu sou Ramon Alberto, profissional apaixonado por Cloud, Infraestrutura e Automação!
 
 Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos atuando com soluções AWS. Tenho expertise em ambientes híbridos, automação com Terraform e CI/CD com GitHub Actions. Busco sempre entregar valor com segurança, escalabilidade e inovação.
-### 📊 Estatísticas
 <table>
   <tr>
     <td>
       <img 
-        alt="Estatísticas do GitHub do Ramon Alberto" 
+        alt="GitHub Estatísticas do Ramon Alberto" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=ramoncruz192401&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Meu%20GitHub%20Stats" 
+        src="https://github-readme-stats.vercel.app/api?username=ramoncruz192401&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=GitHub%20Estatísticas%20do%20Ramon%20Alberto" 
       />
     </td>
     <td>
