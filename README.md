@@ -1,7 +1,25 @@
 ## 👋 Oi! Eu sou Ramon Alberto, profissional apaixonado por Cloud, Infraestrutura e Automação!
 
 Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos atuando com soluções AWS. Tenho expertise em ambientes híbridos, automação com Terraform e CI/CD com GitHub Actions. Busco sempre entregar valor com segurança, escalabilidade e inovação.
-
+### 📊 Estatísticas
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="Estatísticas do GitHub do Ramon Alberto" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api?username=ramoncruz192401&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Meu%20GitHub%20Stats" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Linguagens mais usadas" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoncruz192401&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 🤖Linguagens e Tecnologias
@@ -51,27 +69,9 @@ Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos at
 
 ---
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ramoncruz192401_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?ramoncruz192401=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
--
+---
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramoncruz192401/ramoncruz192401/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramoncruz192401/ramoncruz192401/output/github-contribution-grid-snake-dark.svg">
