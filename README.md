@@ -4,7 +4,7 @@ Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos at
 
 
 ---
-
+🤖Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" alt="AWS Cloud Practitioner"/>
   <img align="center" alt="aZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure"/>
