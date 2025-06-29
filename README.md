@@ -6,7 +6,8 @@ Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos at
 ---
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="AWS" height="30" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" alt="AWS Cloud Practitioner"/>
+  <img align="center" alt="aZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure"/>
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -36,12 +37,14 @@ Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos at
 - Active Directory no Windows Server 2022
 - VMware vSphere 7
 
-🎯 Focado nas certificações:
-<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Cloud-Practitioner_512x512.b7037c7fbd.png" alt="AWS Cloud Practitioner" width="40"/>
-AWS Cloud Practitioner – concluída ✅
+### 🎯 Focado nas certificações:
 
-<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.4b903b8c578b8aa88e52e4a2ef9c9e31b4efc4c5.png" alt="AWS Solutions Architect – Associate" width="40"/>
-AWS Solutions Architect – Associate – em preparação 📚
+[<img  align="center" alt="aZURE" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" alt="AWS Cloud Practitioner"/>](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+**AWS Cloud Practitioner** – concluída ✅
+
+<img align="center" alt="AWS" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" alt="AWS Cloud Practitioner"/>**AWS Solutions Architect – Associate** – em preparação 📚
+   
+   <img align="center" alt="aZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure"/> Microsoft Azure- AZ 900 ** – em preparação 📚
 
 ### 💬 Me pergunte sobre:
 - AWS, Terraform, CI/CD, Automação, Segurança, Cloud híbrida, Docker, GitHub Actions
