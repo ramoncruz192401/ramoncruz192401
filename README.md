@@ -61,7 +61,7 @@ Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos at
 
 <img align="center" alt="AWS" height="30" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" alt="AWS Cloud Practitioner"/>**AWS Solutions Architect – Associate** – em preparação 📚
    
-   <img align="center" alt="aZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure"/> Microsoft Azure- AZ 900 ** – em preparação 📚
+   <img align="center" alt="aZURE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure"/> Microsoft Azure- AZ 900 ** – ✅
 
 ### 💬 Me pergunte sobre:
 - AWS, Terraform, CI/CD, Automação, Segurança, Cloud híbrida, Docker, GitHub Actions
