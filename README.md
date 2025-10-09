@@ -1,6 +1,6 @@
 ## 👋 Oi! Eu sou Ramon Alberto, profissional apaixonado por Cloud, Infraestrutura e Automação!
 
-Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 2 anos atuando com soluções AWS. Tenho expertise em ambientes híbridos, automação com Terraform e CI/CD com GitHub Actions. Busco sempre entregar valor com segurança, escalabilidade e inovação.
+Sou Analista Cloud com mais de 20 anos de experiência em TI e mais de 5 anos atuando com soluções AWS. Tenho expertise em ambientes híbridos, automação com Terraform e CI/CD com GitHub Actions. Busco sempre entregar valor com segurança, escalabilidade e inovação.
 <table>
   <tr>
     <td>
